@@ -1,6 +1,10 @@
-# Supermarket sales
+
+# Supermarket sales data analysis
 
 Historical record of sales data in 3 different supermarkets.
+
+## Dataset Link 
+Kaggle - https://www.kaggle.com/aungpyaeap/supermarket-sales
 
 
 ## Dataset Context
